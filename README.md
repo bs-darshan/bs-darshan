@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-darshan&label=Profile%20views&color=0e75b6&style=flat" alt="bs-darshan" /> </p>
 
-- 🔭 MY PROJECTS <br>  **Scan N Mark- Attendance Automation designed using Android Studio and Firebase <br>   INTELLIGENT AI CHATBOT designed using Natural language processing, Neural network**
+- 🔭 MY PROJECTS <br>  **Scan N Mark** - Seamless attendance management system designed using Android Studio and Firebase <br>   **INTELLIGENT AI CHATBOT** - Designed using Natural language processing, Neural network
 
-- 👨‍💻 All of my projects are available at [https://github.com/bs-darshan](https://github.com/bs-darshan)
+- 👨‍💻 All of my projects are available at  [ My github profile](https://github.com/bs-darshan)
 
-- 📫 How to reach me **darshanbs04@gmail.com**
+- 📫 Reach me out **darshanbs04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/darshan-bs-697b7a274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-bs-697b7a274" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darshan-bs-697b7a274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshan-bs-697b7a274" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
