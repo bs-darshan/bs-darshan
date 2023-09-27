@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-darshan&label=Profile%20views&color=0e75b6&style=flat" alt="bs-darshan" /> </p>
 
-- 🔭 MY PROJECTS **Scan N Mark- Attendance Automation**
+- 🔭 MY PROJECTS **Scan N Mark- Attendance Automation designed using Android Studio and Firebase <br> INTELLIGENT AI CHATBOT designed using Natural language processing, Neural network**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bs-darshan](https://github.com/bs-darshan)
 
